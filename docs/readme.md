@@ -98,3 +98,11 @@ Track systems. Use as a reference. Or fork for your own world-dev ideas.
 
 > “Ruin is not destruction. Ruin is the silence after conquest.”  
 > Welcome to DIVINEX.
+>
+> 💸 Licensing and Commercial Use
+
+DIVINEX is an original IP by Christan Dayne. All content in this repository is published under a NonCommercial license for educational and portfolio purposes.
+
+To use, adapt, feature, or commercially license any part of this project — including story systems, names, dialogue structures, or gameplay designs — you must contact the creator directly for paid licensing.
+
+Interested in supporting or publishing DIVINEX? Reach out via GitHub or email.
