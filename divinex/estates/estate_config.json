@@ -1,0 +1,23 @@
+{
+    "player_id": "example_user_id",
+    "estate_name": "Sanctum of Echoes",
+    "features_enabled": {
+        "outfit_changer": true,
+        "altar_pitch_system": true,
+        "mailbox": true,
+        "vault": true,
+        "sigil_kin": true,
+        "mirrorpool": true,
+        "plant_system": true,
+        "visitor_access": true
+    },
+    "max_characters": 4,
+    "shared_access": true,
+    "god_affiliation": "Undecided",
+    "default_room": "Atrium",
+    "custom_elements": {
+        "theme": "Mythic Ruin",
+        "lighting": "Dynamic Day/Night",
+        "music": "god_theme_default"
+    }
+}
