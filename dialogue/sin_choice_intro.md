@@ -36,9 +36,3 @@ They don’t attack yet.
 - Survive → Sin is revealed, bonded
 
 ---
-
-Let me know when you paste + commit that, and I’ll prep:
-- The `README.md` to make your repo look official  
-- Or the first **Rendition Quest** (`quests/rite_of_ruin.md`)  
-
-You're building a real game now. Let’s make it legendary.
