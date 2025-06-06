@@ -1,88 +1,104 @@
-# TRIALS & RITUALS — DIVINEX
+# TRIALS & RITUALS — DIVINEX  
+## PvE and PvP Events of Sin, Strategy, and Consequence
 
-Trials and Rituals are DIVINEX’s answer to traditional “minigames,” but elevated into high-stakes, Sin-infused crucibles. They reward power, prestige, corruption perks, or deeper narrative consequences.
+DIVINEX replaces traditional minigames with high-stakes Trials and Sin-bound Rituals. These are not diversions — they are crucibles of power, corruption, faction warfare, and narrative consequence.
 
-These are not diversions. They are deadly proving grounds, often instanced or embedded within Remains, Sanctums, or contested shrines. Some may occur on timers, under moons, or through rare invitations. Many are faction-specific or Sin-locked.
-
----
-
-## TRIAL TYPES
-
-### 1. Trials of Power (Combat)
-**Purpose:** Test strength, survival, and tactical prowess  
-**Examples:**
-- *Ashfall Crucible:* Survive increasingly aggressive Ruin-beasts without aid
-- *Grasp of Thorns:* Battle while entangled by a living environment that shifts and chokes over time
-- *Shardbreaker:* Defeat a corrupted divine fragment that splits itself into mirrored clones
-
-### 2. Trials of Influence (Deception or Persuasion)
-**Purpose:** Manipulate NPCs or players to gain favor, expose secrets, or sway the balance of power  
-**Examples:**
-- *The Feast of Mirrors:* Convince three faction leaders to betray each other — using only indirect phrases
-- *Masks of Lust:* Disguise yourself and perform a corrupted masquerade ritual to seduce a rival’s spy  
-- *Eulogy of the Faithless:* Deliver a false sermon convincing a forgotten cult to return
-
-### 3. Trials of Memory (Lore / Puzzle)
-**Purpose:** Reconstruct shattered truths, divine echoes, or ruins of identity  
-**Examples:**
-- *Script of the Forgotten:* Rearrange divine runes in correct emotional sequence before collapse  
-- *Last Breath of Envy:* Navigate a silent battlefield using only memory fragments and distorted shadows  
-- *Vowkeeper’s Echo:* Replay a House betrayal from 1,000 years ago using incomplete timelines
+Trials may be instanced or embedded within Remains. Rituals often require group preparation, relic alignment, or rare invitations. Some are faction-gated. Others can only be attempted under a cursed moon.
 
 ---
 
-## RITUAL TYPES
+## 🔥 TRIAL TYPES
 
-### 1. Sin-Rituals (Group or Solo)
-**Purpose:** Invoke blessings, summon nightmares, or shift Sin alignment  
-**Examples:**
-- *Offering of the Hollowed Tongue:* Sacrifice dialogue options permanently to gain +10 Influence  
-- *Skin Communion:* Flay yourself or a party member to attract Lust’s attention — and boon  
-- *The Reckoning Brand:* Burn your faction's sigil into enemy soil, alerting the Ruin
+### I. Trials of Power (Combat)
 
-### 2. Pact-Rituals (Timed / Region Events)
-**Purpose:** World-shifting collective challenges  
-**Examples:**
-- *Moon of Betrayal:* Once every 8 in-game nights, players can activate a Pact to turn on their faction… and unlock forbidden Remains  
-- *Feast of Silent Kin:* Feed unmarked Familiars into the offering bowl to awaken a Sin Titan  
-- *The Concord Brawl:* Houses gather in sanctioned arena combat — the winner seizes Sanctum rites for the week
+| Trial | Description |
+|-------|-------------|
+| **Ashfall Crucible** | Survive Ruin-beasts under escalating aggression and stripped gear |
+| **Grasp of Thorns** | Fight while strangled by a shifting, hostile terrain |
+| **Shardbreaker** | Battle a divine fragment that splits into deadly mirrors of yourself |
 
 ---
 
-## REWARDS
+### II. Trials of Influence (Deception / Persuasion)
 
-| Reward Type | Description |
-|-------------|-------------|
-| **Sin Marks** | Deepen corruption tier, unlocking new powers or changes in form |
-| **Relic Upgrades** | Awaken hidden traits in Divine or Ruin weapons |
-| **Faction Control** | Shifts Remain ownership or Sanctum privileges |
-| **Narrative Access** | Unlock hidden NPCs, divine echoes, or Pact invitations |
-| **Cosmetic Mutation** | Character or Familiar gains new visual transformation or voice effect
+| Trial | Description |
+|-------|-------------|
+| **Feast of Mirrors** | Manipulate three faction leaders into betraying each other — without direct lies |
+| **Masks of Lust** | Seduce a spy during a corrupted masquerade without revealing your Sin |
+| **Eulogy of the Faithless** | Lead a forgotten cult by crafting a false sermon using relic memories |
 
 ---
 
-## SPECIAL RULES
+### III. Trials of Memory (Lore / Puzzle)
 
-- Trials may lock gear, abilities, or chat during progression  
-- Corruption Tiers may change visual UI or camera effects  
-- Failure sometimes leaves a "Stain" — a passive debuff until cleansed  
-- Rituals may backfire if attempted without proper relics or party synergy  
-- Some Rituals require preparation at mirrorpool/ or silks/ (wardrobe)
-
----
-
-## FACTION ALIGNMENT AND RITUAL ACCESS
-
-Each House may gate unique Rituals:
-- **House Ash:** Combat-focused blood rites, fire-walk trials
-- **House Thorn:** Deception, illusion, and torment rituals
-- **House Vow:** Memory tests, self-denial, brutal endurance
-- **House Ferrin:** Identity corruption, mirror-breaking pacts
+| Trial | Description |
+|-------|-------------|
+| **Script of the Forgotten** | Reassemble divine glyphs in emotional order before collapse |
+| **Last Breath of Envy** | Navigate a battlefield using distorted shadows and broken memories |
+| **Vowkeeper’s Echo** | Reenact a 1,000-year-old betrayal using fragmented timelines and unreliable NPCs |
 
 ---
 
-## DEVELOPMENT NOTES
+## 🔮 RITUAL TYPES
 
-- Some Trials use randomized modifiers (“Afflictions”) per attempt  
-- PvE and PvP Ritual types will be separated by instancing or arena gating  
-- Designed for replayability, faction progression, and seasonal world events
+### I. Sin-Rituals (Solo or Group)
+
+| Ritual | Description |
+|--------|-------------|
+| **Offering of the Hollowed Tongue** | Sacrifice dialogue options permanently to gain +10 Influence |
+| **Skin Communion** | Flay yourself or an ally to summon Lust and beg for power |
+| **The Reckoning Brand** | Burn your faction sigil into enemy territory and alert the Ruin |
+
+---
+
+### II. Pact-Rituals (Timed / Regional)
+
+| Ritual | Description |
+|--------|-------------|
+| **Moon of Betrayal** | On the 8th night cycle, activate a Pact to betray your House and access hidden Remains |
+| **Feast of Silent Kin** | Sacrifice unbonded Familiars into the offering_bowl to awaken a Sin Titan |
+| **The Concord Brawl** | A faction-sanctioned arena combat that shifts Sanctum power for a week |
+
+---
+
+## 🎁 REWARD STRUCTURE
+
+| Reward Type | Result |
+|-------------|--------|
+| **Sin Marks** | Unlock deeper corruption, passive traits, or visual transformation |
+| **Relic Upgrades** | Awaken hidden powers or traits in Divine/Ruin weapons |
+| **Faction Control** | Shift ownership of Remains or Sanctum access privileges |
+| **Narrative Unlocks** | Reveal divine echoes, pact lines, or hidden Contracts |
+| **Cosmetic Mutation** | Affect player appearance, Familiar traits, voice distortion, or aura |
+
+---
+
+## ⚠️ SPECIAL MECHANICS
+
+- Trials may disable gear, abilities, or speech
+- Sin Afflictions (random modifiers) can change trial rules mid-run
+- Failing a Ritual may apply a **Stain** — a passive debuff until cleansed
+- Certain Rituals require pre-binding via `/sanctum/silks/` or `/mirrorpool/`
+- PvP Brawls are instanced, not open-world; accessed via faction or invitation
+
+---
+
+## 🏛️ FACTION-LOCKED RITUAL TYPES
+
+| House | Ritual Theme |
+|-------|--------------|
+| **Ash** | Combat trials, blood pacts, fire-walks |
+| **Thorn** | Illusion, seduction, torment |
+| **Vow** | Memory tests, penance, oathburns |
+| **Ferrin** | Identity corruption, mirrorbreaking, Sin communion |
+
+---
+
+## 💡 DEVELOPER NOTES
+
+- No trial should repeat exactly — all must be reactive to player Sin, faction, and relic status
+- Ritual outcomes can permanently affect dialogue, visuals, or map access
+- Brawls affect world status and may unlock temporary PvE events or Contracts
+- Seasonal Rituals should be added that realign world power
+
+---
